@@ -10,8 +10,8 @@ function onclickclear(){
 }
 function onclickresult(){
 	str = document.getElementById("nummessage");
-    numresult = eval(str.value);
-    str.value = numresult;
+        numresult = eval(str.value);
+        str.value = numresult;
 }
 
 
